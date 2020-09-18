@@ -1,0 +1,18 @@
+title: API Specification Tools
+description: This is a toolbox of open source tooling built around Swagger, OpenAPI, AsyncAPI, JSON Schema, Postman Collectios, and APIs.json--breaking tools down by some of the common areas of API operations.
+image: https://postman-toolboxes.s3.amazonaws.com/assets/postman-toolbox.png
+url: https://postman-toolboxes.github.io/tools
+email: help@postman.com
+
+github_user: postman-toolboxes
+github_repo: tools
+github_branch: master
+
+version:      1.1.1
+author:
+  name:       'Kin Lane'
+  email:      'kin.lane@postman.com'
+markdown:     kramdown
+
+permalink: /:categories/:year/:month/:day/:title/
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]

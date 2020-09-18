@@ -1,0 +1,77 @@
+{% for tag in index.tags %}
+
+{% assign show_tag = 0 %}
+
+{% for tool in index.x-tools %}
+
+  {% assign website_url = "none" %}
+  {% assign postman_docs = "none" %}
+  {% assign postman_run = "none" %}
+  {% assign github_url = "none" %}
+  {% assign twitter_url = "none" %}
+  {% assign rating = 0 %}
+
+  {% for property in tool.properties %}
+    {% if property.type == 'x-postman-documentation' %}{% assign postman_docs = property.url %}{% endif %}
+    {% if property.type == 'x-run-in-postman' %}{% assign postman_run = property.url %}{% endif %}
+    {% if property.type == 'x-github' %}{% assign github_url = property.url %}{% endif %}
+    {% if property.type == 'x-twitter' %}{% assign twitter_url = property.url %}{% endif %}
+    {% if property.type == 'x-website' %}{% assign website_url = property.url %}{% endif %}
+    {% if property.type == 'x-rating' %}{% assign rating = property.x-data.rating %}{% endif %}
+  {% endfor %}
+
+  {% assign is_tagged = 0 %}
+  {% for this_tag in tool.tags %}
+    {% if tag == this_tag %}
+      {% assign is_tagged = 1 %}
+    {% endif %}
+  {% endfor %}
+
+  {% if is_tagged == 1 %}
+
+    {% if show_tag == 0 %}
+      {% assign show_tag = 1 %}
+      <br /><h3><a name="{{ tag }}">{{ tag }}</a> (<a href="#desc">top</a>)</h3>
+      <hr />
+    {% endif %}
+
+    <div class="row collection">
+      <div class="col-md-7">
+         <div class="row collection__meta">
+            <div class="col-12 collection__description"><h3>{{ tool.name }}</h3><p>{{ tool.description }}</p></div>
+         </div>
+      </div>
+      <div class="col-md-5 collection_cta">
+        <table width="75%" align="center">
+          <tr>
+            <td width="33%">
+            {% if website_url != "none" %}
+              <a class="landing btn btn__secondary-light" href="{{ website_url }}" target="_blank">Website</a>
+            {% endif %}
+            </td>
+            <td width="33%">
+            {% if github_url != "none" %}
+              {% if github_url != "" %}
+                <a href="{{ github_url }}" target="_blank"><img src="https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png" align="center" width="75"></a>
+              {% endif %}
+            {% endif %}
+            </td>
+            <td width="33%">
+            {% if twitter_url != "none" %}
+              {% if twitter_url != "" %}
+                <a href="{{ twitter_url }}" target="_blank"><img src="https://postman-toolboxes.s3.amazonaws.com/assets/twitter-icon.png" align="center" width="70"></a>
+              {% endif %}
+            {% endif %}
+            </td>
+          </tr>
+        </table>
+
+      </div>
+    </div>
+
+  {% endif %}
+
+{% endfor %}
+
+
+{% endfor %}

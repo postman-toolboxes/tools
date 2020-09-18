@@ -1,0 +1,44 @@
+<a name="jump"><strong>Jump To:</strong></a><ul style="display: inline;">
+{% for tag in index.tags %}
+
+{% assign show_tag = 0 %}
+
+{% for tool in index.x-tools %}
+
+  {% assign website_url = "none" %}
+  {% assign postman_docs = "none" %}
+  {% assign postman_run = "none" %}
+  {% assign github_url = "none" %}
+  {% assign twitter_url = "none" %}
+  {% assign rating = 0 %}
+
+  {% for property in tool.properties %}
+    {% if property.type == 'x-postman-documentation' %}{% assign postman_docs = property.url %}{% endif %}
+    {% if property.type == 'x-run-in-postman' %}{% assign postman_run = property.url %}{% endif %}
+    {% if property.type == 'x-github' %}{% assign github_url = property.url %}{% endif %}
+    {% if property.type == 'x-twitter' %}{% assign twitter_url = property.url %}{% endif %}
+    {% if property.type == 'x-website' %}{% assign website_url = property.url %}{% endif %}
+    {% if property.type == 'x-rating' %}{% assign rating = property.x-data.rating %}{% endif %}
+  {% endfor %}
+
+  {% assign is_tagged = 0 %}
+  {% for this_tag in tool.tags %}
+    {% if tag == this_tag %}
+      {% assign is_tagged = 1 %}
+    {% endif %}
+  {% endfor %}
+
+  {% if is_tagged == 1 %}
+
+    {% if show_tag == 0 %}
+      {% assign show_tag = 1 %}
+      <li style="display: inline; padding: 1px;">{% if forloop.first == true %}| {% endif %}<a href="#{{ tag }}" style="font-size: 18px; color:#000; text-decoration: underline;">{{ tag }}</a> |</li>
+    {% endif %}
+
+  {% endif %}
+
+{% endfor %}
+
+
+{% endfor %}
+</ul>

@@ -1,0 +1,29 @@
+{% for spec in index.x-specifications %}
+
+  {% assign website_url = "none" %}
+
+  {% for property in spec.properties %}
+    {% if property.type == 'x-website' %}{% assign website_url = property.url %}{% endif %}
+  {% endfor %}
+
+  {% assign tag_match = 0 %}
+  {% for tag in spec.tags %}
+    {% if tag == show_tag %}{% assign tag_match = 1 %}{% endif %}
+  {% endfor %}
+
+  {% if tag_match == 1 %}
+    <div class="row collection">
+      <div class="col-md-7">
+         <div class="row collection__meta">
+            <div class="col-12 collection__title">{{ spec.name }}</div>
+            <div class="col-12 collection__description">{{ spec.description }}</div>
+            <div class="col-12 collection__description"><strong>Resources:</strong> {% for tag in spec.tags %}{{ tag }}{% if forloop.last == true %}{% else %}, {% endif %}{% endfor %}</div>
+         </div>
+      </div>
+      <div class="col-md-5 collection_cta">
+        <a href="{{ website_url }}" class="btn btn-outline-dark ts-button">Visit Website</a>
+      </div>
+    </div>
+  {% endif %}
+{% endfor %}
+<br><br>
