@@ -131,7 +131,7 @@ specificationVersion: '0.14'
 x-tools:
 - name: Asyncapi
   description: The-AsyncAPI-specification-allows-you-to-create-machine-readable-definitions-of-your-asynchronous-APIs
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Specific
@@ -151,7 +151,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Widdershins
   description: OpenAPI--Swagger-AsyncAPI--Semoasa-definitions-to-Slate--Shins-compatible-markdown
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Swagger
@@ -175,7 +175,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Generator
   description: Use-your-AsyncAPI-definition-to-generate-literally-anything-Markdown-documentation-Nodejs-code-HTML-documentation-anything
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Node.js
@@ -198,7 +198,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Slack api specs
   description: Open-API-specifications-for-platform-products-by-Slack
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Specifications
   - Specific
@@ -218,7 +218,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Api2html
   description: A-CLI-tool-to-transform-SwaggerOpenAPIAsyncAPI-docs-to-beautiful-HTML-pages-via-ShinsWiddershins
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Transform
   - Sync
@@ -243,7 +243,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Openapi filter
   description: Filter-internal-paths-operations-parameters-schemas-etc-from-OpenAPISwaggerAsyncAPI-definitions
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Swagger
@@ -273,7 +273,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi react
   description: AsyncAPI-React-Component
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - React
@@ -289,7 +289,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Topic definition
   description: AsyncAPI-topic-structure-definition
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Topic
   - Top
@@ -306,7 +306,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Github action
   description: GitHub-action-to-deploy-your-API-documentation-on-Bump
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Me
   - GitHub OpenAPI Search
@@ -325,7 +325,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Docgen
   description: AsyncAPI-documentation-generator-DEPRECATED-in-favour-of
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Me
@@ -344,7 +344,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Spectral action
   description: GitHub-Action-wrapper-for-Spectral---a-JSONYAMLOpenAPIAsyncAPIetc-linter-with-custom-rule-support
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - YAML
   - Wrapper
@@ -370,7 +370,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Parser go
   description: It-parses-AsyncAPI-documents
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Parses
@@ -391,7 +391,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Swagger4kafka
   description: Automated-documentation-for-Kafka-consumers-built-with-Spring-with-KafkaListener
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Swagger
   - Spring
@@ -414,7 +414,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Saunter
   description: Saunter-is-an-AsyncAPI-documentation-generator-for-dotnet
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Me
@@ -434,7 +434,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi validator
   description: Message-validator-for-KafkaRabbitMQAnything-through-AsyncAPI-schema
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Schema
@@ -453,7 +453,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Node codegen
   description: An-AsyncAPI-codegen-for-Nodejs
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Node.js
@@ -471,7 +471,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Go asyncapi
   description: AsyncAPI-spec-from-Go-code
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Go
@@ -489,7 +489,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Website
   description: AsyncAPI-specification-website
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Specific
@@ -506,7 +506,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi toolkit
   description: Repository-to-host-the-AsyncAPI-grammar-metamodel-and-code-generation-tools
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Tools
   - Sync
@@ -528,7 +528,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Converter go
   description: Convert-AsyncAPI-documents-from-older-to-newer-versions-with-Golang
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Versions
   - Sync
@@ -552,7 +552,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Apicurio data models
   description: A-library-Java-and-JavaScript-compatible-to-implement-data-models-for-OpenAPI-and-AsyncAPI
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - OpenAPI
@@ -575,7 +575,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Parser js
   description: AsyncAPI-parser-for-Javascript-browser-compatible-too
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Row
@@ -596,7 +596,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi directory
   description: "-Directory-of-asynchronous-API-specifications-in-AsyncAPI-format"
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Specifications
@@ -615,7 +615,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Github action for generator
   description: GitHub-Action-to-generate-all-the-things-from-your-AsyncAPI-document-using-the-AsyncAPI-generator
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Things
   - Sync
@@ -638,7 +638,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Vertx asyncapi contract
   description: Vertx-AsyncAPI-Contract-provides-a-validation-layer-when-publishing-messages-in-Vertx-EventBus
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Vertx
   - Validation
@@ -660,7 +660,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Documentation component
   description: React-component-for-rendering-markdown-openapi-asyncapi-and-odata
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Render
@@ -686,7 +686,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Java spring template
   description: Java-Spring-template-for-the-AsyncAPI-Generator
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Template
   - Sync
@@ -705,7 +705,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Bindings
   description: AsyncAPI-bindings-specifications
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Specifications
@@ -723,7 +723,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Check Api
   description: A-multi-API-format-validator-and-gate-keeper-tool-for-the-APIsguru-API-collection
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Multi
   - GitHub Swagger Search
@@ -742,7 +742,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Vscode spectral
   description: Visual-Studio-Code-wrapper-for-the-awesome-Spectral-JSONYAML-linter-with-OpenAPIAsyncAPI-support
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - YAML
   - Wrapper
@@ -768,7 +768,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi
   description: Flogo-extensions-to-support-AsyncAPI
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Support
@@ -786,7 +786,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Java spring cloud stream template
   description: Java-Spring-Cloud-Stream-template-for-the-AsyncAPI-Generator
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Template
   - Sync
@@ -806,7 +806,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi github action
   description: GitHub-action-to-validate-if-AsyncAPI-schema-file-is-valid-or-not
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Schema
@@ -825,7 +825,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Editor
   description: DEPRECATED-in-favor-of-githubcomasyncapiplayground-Online-editor-to-try-out-AsyncAPI
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Playground
@@ -845,7 +845,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Tck
   description: WIP-Test-Compatibility-Suite-for-AsyncAPI
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -860,7 +860,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Python paho template
   description: Python-Paho-template-for-the-AsyncAPI-generator
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Template
   - Sync
@@ -878,7 +878,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Converter js
   description: Convert-AsyncAPI-documents-from-older-to-newer-versions
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Versions
   - Sync
@@ -900,7 +900,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Scribano
   description: Automatically-build-AsyncAPI-documentation-for-your-RabbitMQ-messages
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - RabbitMQ
@@ -920,7 +920,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Hub
   description: Message-hub-Export-websocket-and-HTTP-API
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Me
   - HTTP
@@ -936,7 +936,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Contribute
   description: A-repo-containing-all-the-work-that-needs-to-be-done-in-order-to-keep-developing-AsyncAPI-and-related-tooling
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Work
   - Sync
@@ -954,7 +954,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncAPI Marko
   description: Site-built-with-Nodejs-to-call-multiple-APIs-asynchronously-using-Markojs-template
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Template
   - Sync
@@ -973,7 +973,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Bump cli
   description: Bumpsh-CLI---Deploy-your-OpenAPI--AsyncAPI-documentations-from-your-CI
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - OpenAPI
@@ -995,7 +995,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncAPI Spring Cloud Streams Generator
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Streams
@@ -1014,7 +1014,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Raml dt schema parser
   description: AsyncAPI-schema-parser-for-RAML-data-types
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Types
   - Sync
@@ -1036,7 +1036,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi client
   description: Asynchronous-communication-between-Rails-API-servers
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Servers
@@ -1057,7 +1057,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi
   description: Tools-around-AsyncAPI
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Tools
   - Sync
@@ -1073,7 +1073,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi sphinx ext
   description: AsyncAPI-Sphinx-Extension-to-document-your-pubsub-endpoints-
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Points
@@ -1091,7 +1091,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Markdown template
   description: Markdown-template-for-the-AsyncAPI-Generator
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Template
   - Sync
@@ -1109,7 +1109,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi example
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -1124,7 +1124,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi ws to ts
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -1139,7 +1139,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi live reload demo
   description: Edit-asyncapiyml-then-generate-and-reload-the-HTML-doc-automatically
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Load
@@ -1159,7 +1159,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi node
   description: AsyncAPI-schema-versions
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Versions
   - Sync
@@ -1176,7 +1176,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Nodejs template
   description: Nodejs-template-for-the-AsyncAPI-Generator
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Template
   - Sync
@@ -1195,7 +1195,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Nodejs ws template
   description: Nodejs-WebSockets-template-for-the-AsyncAPI-Generator
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - WebSockets
   - Template
@@ -1215,7 +1215,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Html template
   description: HTML-template-for-AsyncAPI-Generator
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Template
   - Sync
@@ -1233,7 +1233,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Vscode extension
   description: AsyncAPI-extension-for-Visual-Studio-Code
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Vscode
   - Visual
@@ -1251,7 +1251,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Extensions catalog
   description: This-is-a-placeholder-for-definitions-of-AsyncAPI-specification-extensions-and-protocolInfo-objects
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Specific
@@ -1274,7 +1274,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi codegen
   description: Uses-an-AsyncAPI-20-spec-to-generate-C-code
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -1292,7 +1292,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi cli
   description: Simple-CLI-to-validate-Async-API-documents
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Me
@@ -1310,7 +1310,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: SwiftUI AsyncAPI
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Swift
@@ -1326,7 +1326,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi examples
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -1342,7 +1342,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncApiProxy
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Proxy
@@ -1358,7 +1358,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Generator filters
   description: Library-with-reusable-generator-filters-that-you-can-use-in-your-templates
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Usable
   - Templates
@@ -1377,7 +1377,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi interactive docs
   description: Location-of-source-files-of-interactive-tutorials-powered-by-Katacoda
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Tutorials
   - Sync
@@ -1396,7 +1396,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Topic generator
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Topic
   - Top
@@ -1411,7 +1411,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi dev
   description: AsyncApi-development-setup-including-html-and-markdown-templates-that-extend-the-base-templates-to-support-amqp-bindings-generation
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Templates
   - Template
@@ -1439,7 +1439,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi server
   description: Asynchronous-communication-between-Rails-API-servers
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Servers
@@ -1458,7 +1458,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Async api amf
   description: AMF-parser-for-AsyncAPI
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Parser
@@ -1475,7 +1475,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Openapi schema parser
   description: An-AsyncAPI-schema-parser-for-OpenAPI-30x-and-Swagger-2x-schemas
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Swagger
@@ -1497,7 +1497,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapis
   description: This-is-a-module-to-make-async-REST-API-call--
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - REST
@@ -1513,7 +1513,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncAPIs
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -1528,7 +1528,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi core
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -1543,7 +1543,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi examples
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -1559,7 +1559,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Ts nats template
   description: Typescript-template-for-NATS
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Typescript
   - Types
@@ -1574,7 +1574,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Java asyncapi
   description: AsyncAPI-spec-from-Java-code-
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Java
@@ -1592,7 +1592,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Java asyncapi
   description: Generate-asyncapi-definition-from-annotated-java-source
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Java
@@ -1611,7 +1611,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Java to AsyncAPI
   description: Generate-AsyncAPI-from-java-code
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Java
@@ -1630,7 +1630,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi streetlights java spring
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Tree
   - Sync
@@ -1648,7 +1648,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncApi
   description: Sample-Java-API-Usage-of-asynchronous-services-and-H2-in-memory-database-
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Usage
   - Sync
@@ -1670,7 +1670,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncApiCall
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -1685,7 +1685,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi maven
   description: AsyncAPI-Maven-Plugin
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Maven
@@ -1701,7 +1701,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi to python
   description: Generate-python-code-from-async-api-yaml-files-using-docker-compose
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - YAML
   - Sync
@@ -1724,7 +1724,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Github webhooks asyncapi
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Webhooks
   - Sync
@@ -1743,7 +1743,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi samples
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Samples
@@ -1759,7 +1759,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi schema sample
   description: asyncapi-schema-sample--using-protobuf-as-object-definition-schema
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Schema
@@ -1776,7 +1776,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi flogo test
   description: This-is-the-material-that-supports-the-post-on-Medium-regarding-Welcome-to-the-AsyncAPI-Revoluton-and-provide-the-flogo-code-needed-to-run-the-same-sample-that-is-being-shown-in-the-article
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Welcome
   - Sync
@@ -1801,7 +1801,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncAPIAspNetCoreWithGraphQL
   description: Building-an-Async-API-with-ASPNET-Core-with-Graphql----This-repository-contains-the-fully-functioning-finished-sample-code-for-my-Building-an-Async-API-with-NET-Core-with-GraphQL--It-contains-best-practices-on-how-is-a-guidelines
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Repos
@@ -1827,7 +1827,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncApiProxy
   description: Async-Api-base-on-tasks-and-messages
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Tasks
   - Sync
@@ -1849,7 +1849,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncApi
   description: Async-API-Example-using-Kevin-Dockx-Building-an-Async-API-with-ASPNET-Core-course-httpsbitly2LrwNLD
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - HTTPS
@@ -1867,7 +1867,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Store lib
   description: Demo-of-jscmp-code-generated-from-an-asyncapi-file
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Store
@@ -1887,7 +1887,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Api docs
   description: Example-of-generating-Async-Api-html-docs-using-Apache-Maven-
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Maven
@@ -1906,7 +1906,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncApi
   description: Demo-async-request-processing-in-Spring-boot
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Spring Boot
@@ -1924,7 +1924,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Microservices AsyncApiCalls BackgroundProcess
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Process
@@ -1943,7 +1943,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncAPI
   description: Building-an-Async-API-with-ASPNET-Core
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -1959,7 +1959,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncAPI ASP.NET Core
   description: Building-an-Async-API-with-ASPNET-Core
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -1975,7 +1975,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi demo peax
   description: httpsplaygroundasyncapiioload
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Playground
@@ -1994,7 +1994,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi server
   description: Documentation-driven-AsyncAPI-server
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Server
@@ -2014,7 +2014,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncApi.js
   description: Connect-to-iframes-web-workers-local-objects-or-a-web-server-using-the-same-deferred-syntax
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Workers
   - Work
@@ -2037,7 +2037,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi jsdoc
   description: Generates-AsyncAPI-definitions-based-on-JSDoc
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Rates
@@ -2058,7 +2058,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Ymlapi to interfaces
   description: Converts-openapiasyncapi-componentsdefinitions-to-interfaces
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - OpenAPI
@@ -2080,7 +2080,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi gen test
   description: Tests-asyncapi-code-generation
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Tests
   - Sync
@@ -2098,7 +2098,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi codegen scst
   description: Code-Artifacts-used-for-AsyncAPI-Code-Generation-Blog--Video
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Video
   - Used
@@ -2122,7 +2122,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncAPIExamples
   description: Collection-of-AsyncAPI-specs-with-real-world-broker-channels
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -2140,7 +2140,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Iot platform api docs
   description: Solace-IoT-Blueprint---Device-API-Descriptions
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Print
   - GitHub AsyncAPI Search
@@ -2156,7 +2156,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Parser
   description: AsyncAPI-Parser
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Parser
@@ -2173,7 +2173,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi generated
   description: Generated-serde-structs-for-parsing-asyncapi-schemas
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Schemas
@@ -2193,7 +2193,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Go asyncapi parser wasm
   description: asyncAPI-parser--wasm-golang-POC
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Parser
@@ -2212,7 +2212,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncApi.Worker
   description: worker-for-AsyncApiProxy
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Work
   - Sync
@@ -2229,7 +2229,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncAPI
   description: C-async-API-
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -2244,7 +2244,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncAPI
   description: A-async-api-learning-project
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Learning
@@ -2261,7 +2261,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncAPI
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -2276,7 +2276,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi
   description: This-is-the-asyncapi-gallery
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -2291,7 +2291,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncAPI
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -2306,7 +2306,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapitest
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -2321,7 +2321,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapidemo
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -2336,7 +2336,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi tools
   description: asyncapi-tools
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Tools
   - Sync
@@ -2352,7 +2352,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncAPI example
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -2367,7 +2367,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncApiCall
   description: Async-download-Api-Call
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Load
@@ -2383,7 +2383,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncApiSpec
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -2398,7 +2398,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapitools.github.io
   description: AsyncAPI-Tools
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Tools
   - Sync
@@ -2416,7 +2416,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncAPI Test
   description: Test-to-use-AsyncAPI-and-Solace-code-generator-to-create-Spring-Cloud-Streams-application
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Streams
@@ -2436,7 +2436,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncApiProxy
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Proxy
@@ -2452,7 +2452,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncApiProxy
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Proxy
@@ -2468,7 +2468,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi stream
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -2483,7 +2483,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Awesome asyncapi
   description: A-curated-list-of-tools-and-articles-about-AsyncAPI
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Tools
   - Sync
@@ -2505,7 +2505,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncApiDocBundle
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -2521,7 +2521,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi demo
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -2536,7 +2536,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: AsyncApiCall
   description: Call-the-Api-using-Async-task
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -2552,7 +2552,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi scala
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Scala
@@ -2568,7 +2568,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi parser
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Parser
@@ -2585,7 +2585,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Generator
   description: AsyncAPI-Generator
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -2601,7 +2601,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi gen
   description: This-shows-code-generated-by-asyncapigenerator-using-the-Solace-template
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Template
   - Sync
@@ -2621,7 +2621,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Bump ci example
   description: CI-integration-examples-for-Travis-CI-CircleCI-and-Gitlab-CI
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Travis
   - Gitlab
@@ -2639,7 +2639,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Axway amplify streams asyncapi
   description: AMPLIFY-Streams-AsyncAPI-specification
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Streams
@@ -2656,7 +2656,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi examples
   description: Examples-around-AsyncAPI-tools
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Tools
   - Sync
@@ -2673,7 +2673,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi websockets example
   description: An-example-demoing-how-to-use-AsyncAPI-and-WebSockets
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - WebSockets
   - Sync
@@ -2689,7 +2689,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi test gh action
   description: Test-Github-action-for-asyncapi
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -2707,7 +2707,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi react in action
   description: Created-with-CodeSandbox
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Sandbox
@@ -2727,7 +2727,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Generate it asyncapi rabbitmq
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - RabbitMQ
@@ -2744,7 +2744,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Enterprise patterns
   description: Enterprise-patterns-using-AsyncAPI
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search
@@ -2760,7 +2760,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi validator vscode
   description: VSCode-extension-for-AsyncApi-Validator
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Vscode
   - Sync
@@ -2777,7 +2777,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi flogo
   description: Converts-async-api-into-a-flogo-application
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Go
@@ -2794,7 +2794,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: Asyncapi jsonschema
   description: Easily-convert-online-AsyncAPI-v2-to-JSON-schemas
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - Schemas
@@ -2815,7 +2815,7 @@ x-tools:
     x-Tweets: apievangelist
 - name: API ASP.NET AsyncAPI AspDOTNetCore
   description: ''
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/github-icon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/github-icon.png
   tags:
   - Sync
   - GitHub AsyncAPI Search

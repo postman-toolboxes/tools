@@ -1,10 +1,10 @@
 title: API Specification Tools
 description: This is a toolbox of open source tooling built around Swagger, OpenAPI, AsyncAPI, JSON Schema, Postman Collectios, and APIs.json--breaking tools down by some of the common areas of API operations.
-image: https://postman-toolboxes.s3.amazonaws.com/assets/postman-toolbox.png
-url: https://postman-toolboxes.github.io/tools
+image: https://postman-toolboxes2.s3.amazonaws.com/assets/postman-toolbox.png
+url: https://postman-toolboxes2.github.io/tools
 email: help@postman.com
 
-github_user: postman-toolboxes
+github_user: postman-toolboxes2
 github_repo: tools
 github_branch: master
 
